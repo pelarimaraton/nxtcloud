@@ -49,7 +49,3 @@ vi /etc/apache2/sites-enabled/000-default.conf
 </VirtualHost>
 #Restart Apache Server
 systemctl restart apache2
-
-
-/home/nugraha/cert/apache
-ChainCA1.crt  ChainCA2.crt  Chain_RootCA_Bundle.crt  private.key  RootCA.crt  STAR_lintasarta_net.ca-bundle  STAR_lintasarta_net.crt
